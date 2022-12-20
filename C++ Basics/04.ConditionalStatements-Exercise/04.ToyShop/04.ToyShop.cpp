@@ -8,7 +8,7 @@ int main()
     double tripPrice;
     cin >> tripPrice;
     int puzels;
-    cin >> puzels;
+    cin >> puzzels;
     int dolls;
     cin >> dolls;
     int bears;
